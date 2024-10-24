@@ -1,0 +1,160 @@
+@import url('https://fonts.googleapis.com/css2?family=Agdasima:wght@400;700&family=Kanit:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+*{
+ margin:0%;
+ padding:0%;
+ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+html,body{
+ height: 100%;
+ width: 100%;
+}
+main{
+    background-color: rgb(3, 3, 58);
+    border-radius: 10px;
+    width: 100%;
+    height: 100%;
+    display: flex;
+}
+.sec-1{
+    width: 40%;
+    height: 100%;
+}
+.c1{
+    height: 800px;
+    display: flex;
+    position: relative;
+    right: 350px;
+    bottom: 280px;
+}
+.pic{
+    height: 550px;
+    border-radius: 50% ;
+    display: flex;
+    position: relative;
+    bottom: 700px;
+    left: 140px;
+    filter: drop-shadow(2px 2px 15px black);
+}
+.details{
+    margin: 90px;
+    margin-left: 40px;
+    color: floralwhite;
+    margin-bottom: 10px;
+    margin-top: 30px;
+}
+.design
+{
+    margin: 90px;
+    margin-left: 40px;
+    margin-top: 60px;
+    height: 50%;
+}
+.apart{
+    font-family: "Kanit", sans-serif;
+    font-size: 70px;
+    margin-bottom: 10px;
+}
+.para{
+    opacity: 0.5;
+}
+.txt{
+    color: floralwhite;
+    font-size: 35px;
+    font-weight: bold;
+    margin-bottom: 15px;
+    margin-top: 10px;
+}
+.bar{
+    height: 40px;
+    width: 250px;
+    background: yellow;
+    border-radius: 24px;
+}
+.bar-2{
+    height: 40px;
+    width: 250px;
+    background: violet;
+    border-radius: 24px;
+    display: flex;
+    position: relative;
+    bottom: 40px;
+}
+#b1{
+    width: 250px;
+    transition: width ease-in-out 0.15s;
+}
+#b1:hover{
+    width: 230px;
+}
+#b2{
+    width: 250px;
+    transition: width ease-in-out 0.15s;
+}
+#b2:hover{
+    width: 200px;
+}
+#b3{
+    width: 250px;
+    transition: width ease-in-out 0.15s;
+}
+#b3:hover{
+    width: 220px;
+}
+.percent{
+    color: floralwhite;
+    font-size: 30px;
+    display: flex;
+    position: relative;
+    bottom: 77px;
+    left: 280px;
+    width: 50px;
+    opacity: 0.2;
+    cursor: pointer;
+    transition: opacity 0.15s;
+}
+.percent:hover{
+    opacity: 0.5;
+}
+.prop{
+    height: 100px;
+}
+.pic-2{
+    height: 500px;
+    display: flex;
+    position: relative;
+    left: 520px;
+    bottom:250px;
+    filter: drop-shadow(2px 2px 10px black);
+}
+.pic-3{
+    height: 80px;
+    display: flex;
+    position: relative;
+    bottom: 710px;
+    left: 500px;
+}
+.po{
+    color: floralwhite;
+    font-size: 30px;
+    display:flex ;
+    position: relative;
+    bottom: 768px;
+    left: 80px;
+}
+.pic-4{
+    height: 80px;
+    display: flex;
+    position: relative;
+    left: 770px;
+    top: 90px;
+}
+.line{
+    height: 2px;
+    width: 300px;
+    background-color: violet;
+    display: flex;
+    position: relative;
+    left: 613px;
+    top: 90px;
+}
