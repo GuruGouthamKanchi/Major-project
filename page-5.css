@@ -59,6 +59,7 @@ main{
 }
 .pg{
     margin-top: 30px;
+    opacity: 0.5;
 }
 .logos{
     height: 20px;
