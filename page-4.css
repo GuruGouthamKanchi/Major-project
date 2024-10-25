@@ -81,24 +81,12 @@ main{
     bottom: 40px;
 }
 #b1{
-    width: 250px;
-    transition: width ease-in-out 0.15s;
-}
-#b1:hover{
     width: 230px;
 }
 #b2{
-    width: 250px;
-    transition: width ease-in-out 0.15s;
-}
-#b2:hover{
     width: 200px;
 }
 #b3{
-    width: 250px;
-    transition: width ease-in-out 0.15s;
-}
-#b3:hover{
     width: 220px;
 }
 .percent{
